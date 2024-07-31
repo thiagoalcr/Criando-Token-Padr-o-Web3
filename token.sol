@@ -1,7 +1,5 @@
-// SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.7;
 
-//ERC Token Standard #20 Interface
 interface ERC20Interface{
     function totalSupply() external view returns (uint);
     function balanceOf(address tokenOwner) external view returns (uint balance);
@@ -15,7 +13,6 @@ interface ERC20Interface{
     event Approval(address indexed tokenOwner, address indexed spender, uint tokens);
 }
  
-//Actual token contract 
 contract DIOToken is ERC20Interface{
     string public symbol = "DIO" ;
     string public  name = "DIO Coin";
