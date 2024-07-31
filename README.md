@@ -5,6 +5,6 @@ Repositório criado para apresentar o desafio de projeto proposto para o bootcam
 Realizar o desenvolvimento de um token padrão web3 em uma rede blockchain de teste e realizar transações de envio e recebimento.
 
 ## :computer: Tecnologias Utilizadas
-![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge) ![Blockchain.com Badge](https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge) 
+![Blockchain.com Badge](https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge) ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge) 
 
 
